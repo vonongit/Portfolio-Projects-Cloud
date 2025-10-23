@@ -1,0 +1,4 @@
+# Copy to terraform.tfvars and update with your values
+
+alert_email = "your-email@example.com"
+aws_region  = "us-east-1"
